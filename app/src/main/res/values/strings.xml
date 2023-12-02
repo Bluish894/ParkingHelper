@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ParkingFinderDemoTester</string>
+    <string name="parkingLotLabel">Please Select a Parking Lot</string>
+    <string name="parkingLotButton1">Lot 1</string>
+    <string name="parkingLotButton2">Lot 2</string>
+    <string name="parkingLotButton3">Lot 3</string>
+    <color name="orange">#FFA500</color>
+    <color name="blue">#00008B</color>
+</resources>
